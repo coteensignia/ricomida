@@ -1,0 +1,96 @@
+.navbar-brand {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 37pt;
+}
+
+h1 {
+  font-family: "Cabin", sans-serif;
+  font-weight: bold;
+  color: #373a3c;
+}
+.call{
+  color:white
+}
+
+
+
+
+
+.gris {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+color: #373a3c;
+  text-align: center;
+}
+
+hr {
+  height: 1px;
+  background-color: #000000;
+  opacity: 100%;
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #000;
+}
+
+.underline {
+  border-bottom: 1px solid #000000;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  width: 115px;
+}
+
+.underline-title {
+  border-bottom: 1px solid #000000;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  width: 115px;
+  cursor: pointer;
+}
+
+.container h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row-call {
+  background-color: #dc3545;
+  height: 350px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.btn-outline-light {
+  width: 200px;
+}
+
+.ricomida {
+  font-family: "Lobster", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #373A3C;
+  height: 100px;
+  color: white;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+}
